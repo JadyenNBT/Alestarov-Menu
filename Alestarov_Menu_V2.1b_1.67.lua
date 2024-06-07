@@ -2,21 +2,16 @@
 -- Online version: 1.68
 --
 --
---Please also make sure to download the file published by the official GitHub user Alestarov or on youtube channel Alestarov_. Any other method may be a malicious script.
---Github: https://github.com/Alestarov/YimMenu-lua-script-Alestarov_Menu
---YouTube: https://www.youtube.com/@Alestarov_
---
---When editing the Script, please indicate the authors
 --
 --
 --
 --
 ----------------------------------------------------------
-Almenu = gui.get_tab("Al_Menu v3 1.68")
+Almenu = gui.get_tab("A8")
 
-gui.show_message("Alestarov_Menu_V3b_1.68","is Successfully launched!")
+gui.show_message("A8","is Successfully launched!")
 
-	Almenu:add_text("         Alestarov_Menu_V3_1.68 ")
+	Almenu:add_text("         A8 ")
 ------------------------------------
 
 function run_script(name) --start script thread
@@ -687,6 +682,6 @@ xiaoxiao921:add_text("Profile on GitHub:")
 xiaoxiao921:add_text("https://github.com/xiaoxiao921")
 
 SLON = AlmenuCredits:add_tab("SLON")
-SLON:add_text("The code from the script ''YimCeo v0.5 by Slon.lua'' was implemented")
-SLON:add_text("Script on unknowncheats.me:")
-SLON:add_text("https://www.unknowncheats.me/forum/grand-theft-auto-v/591335-yimceo-ceo-crates-method-yimmenu.html")
+SLON:add_text("A8")
+SLON:add_text("by Jaden")
+SLON:add_text("https://jadyennbt.github.io/J-s-GTA-V-Modding-Services/")
